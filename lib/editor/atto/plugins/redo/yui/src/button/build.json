@@ -1,0 +1,10 @@
+{
+  "name": "moodle-atto_redo-button",
+  "builds": {
+    "moodle-atto_redo-button": {
+      "jsfiles": [
+        "button.js"
+      ]
+    }
+  }
+}
